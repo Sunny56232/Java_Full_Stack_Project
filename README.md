@@ -299,7 +299,7 @@ Ensure that you have Java 11 installed on your local machine. If not, follow the
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/hoangsonww/Employee-Management-Fullstack-App.git
+git clone https://github.com/shivamji642002/Java_Full_Stack_Project.git
 cd Employee-Management-Fullstack-App  # Fix the paths if necessary
 cd backend
 ```
@@ -409,11 +409,8 @@ This application also uses Swagger to provide an interactive API documentation i
 
    This will open the Swagger interface where you can explore the API endpoints.
 
-3. Alternatively, for those who need the raw OpenAPI JSON, it is available at:
 
-   [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
-
-4. **Explore the API Endpoints**:
+3. **Explore the API Endpoints**:
 - Use the sidebar or the search bar to navigate through the available API endpoints.
 - Click on an endpoint to view its details, including the request method (GET, POST, PUT, DELETE), parameters, request body, and possible responses.
 - You can also test the endpoints directly by clicking the **"Try it out"** button, providing the necessary input, and executing the request.
@@ -679,13 +676,13 @@ This project is licensed under the **MIT License.** See the [LICENSE](LICENSE) f
 
 ## Contact
 
-For any questions or issues, please contact [shivamji2200@gmail.com](mailto:hoangson091104@gmail.com).
+For any questions or issues, please contact [shivamji2200@gmail.com](mailto:shivamji2200@gmail.com).
 
 ---
 
 Thank you for checking out the **Employee Management Full-Stack Application!** Feel free to use this project for your own learning or development purposes.
 
-Created with ❤️ by [Shivam](https://github.com/hoangsonww) in 2025.
+Created with ❤️ by [Shivam](https://github.com/shivamji642002) in 2025.
 
 ---
 
