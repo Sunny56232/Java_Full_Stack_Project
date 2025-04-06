@@ -197,7 +197,7 @@ const LandingPage = () => {
             Visit our documentation to learn more about the features, functionalities, and how to get started with our Employee Management System.
           </Typography>
           <Button
-            href="https://github.com/hoangsonww/Employee-Management-Fullstack-App"
+            href="https://github.com/shivamji642002/Java_Full_Stack_Project"
             target="_blank"
             variant="contained"
             sx={{
