@@ -17,7 +17,7 @@ const Login = () => {
     setError('');
 
     try {
-      const response = await fetch('http://localhost:8080/authenticate', {
+      const response = await fetch('https://employee-management-app-gdm5.onrender.com/authenticate', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ username, password }),
